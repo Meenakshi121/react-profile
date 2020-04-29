@@ -1,0 +1,45 @@
+{
+    "profiles":[
+        {
+            "basicInformation": {
+                "name" : "Meenakshi Kokkiligadda",
+                "role" : "Multi skill Trainer",
+                "email" : "meenakshi.k@apssdc.in",
+                "mobile": "+91 9550817745"
+            },
+            "education":[
+                
+                {
+                    "degree":"B.Tech",
+                    "institution":"I completed my Graduation in the Stream of Information Technologies from V R Siddhartha Engineering College. in 2011-2015"
+                },
+                {
+                    "degree":"Diploma",
+                    "institution":"I completed my Inter from Sri Chaitanya girls jr college in 2009-2011"
+                },
+                {
+                    "degree":"SSC",
+                    "institution": "School Study's SSC from ST Raja High School Gajuwaka completed in 2009"
+                }
+            ],
+            "skill":[
+     
+                {
+                    "t":"Coding Skills",
+                    "l":"Python,Raptor,MIT App Inventor"
+                },
+        {
+                    "t":"Known Technologies",
+                    "l":"BASICS OF ENTREPRENEURSHIP"
+                },
+        {
+                    "t":"Web Technologies",
+                    "l":"Html,css"
+                }  
+         
+            ]
+        }
+        
+    ]
+}
+
